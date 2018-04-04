@@ -1,0 +1,155 @@
+%
+%  thesis.tex   2003.03.23  13:52:27   Mark D Senn <mds@purdue.edu>
+%
+%  This is the ``main file'' for a simple, example thesis.
+%
+%  To make the final copy of the thesis comment
+%  out the \includeonly command below and type:
+%      latex thesis
+%      bibtex thesis
+%      latex thesis
+%      latex thesis
+%
+%  Regarding ``References'' below:
+%      KEY  MEANING
+%      PU   ``A Manual for the Preparation of Graduate Theses'',
+%           The Graduate School, Purdue University, 1996.
+%
+%  MARKERS:
+%    $+
+%    $dpps:  dp -ps $f1
+%    $gs:    gs $f1.ps
+%    $latex: latex $f1
+%    $-
+%
+%  HISTORY:
+%    2003.03.13 Improved comments.
+%               Added MARKERS section for Mark Senn.
+%
+
+  % See http://www.ecn.purdue.edu/ECN/Documents/tex/latex/puthesis
+  % for allowable documentclass options.
+\documentclass[coversheets,ece,bypass]{puthesis}
+
+  % Title of thesis (used on title page and in abstract).
+  % The title shown must be the full, official title of the
+  % thesis.  Superscripts and subscripts are not permitted in
+  % the title.
+  % Reference: PU 15.
+\title{Determination of the Absolute Phase Between a Field and its Second
+Harmonic For Use in a Coherent Control Experiment }
+
+  % First author name with first name first is used for title page.
+  % Second author name with last name first is used for abstract.
+  % Your full name as it appears in the University records appears
+  % on the title page.
+  % Reference: PU 15.
+\author{Christopher A. Rupley}{Rupley, Christopher A.}
+
+  % First is long title of degree (used on title page).
+  % Second is abbreviation for degree (used in abstract).
+  % Third is the month the degree was (will be) awarded (used on title page
+  % and abstract).
+  % Last is the year the degree was (will be) awarded (used on title page
+  % and abstract).
+  % The degree title for all doctoral candidates is ``Doctor of Philosophy.''
+  % The precise degree names for master's candidates appear in the list of
+  % ``Degrees Offered'' in the Graduate School bulletin.
+  % The date is the month and year that the degree is actually awarded.
+  % (If you have registered for ``degree only,'' revise the thesis title
+  % page to reflect the new date on which the degree is to be awarded.)
+  % Reference: PU 15.
+\degree{Master of Science in Electrical and Computer
+Engineering}{MSECE}{August}{2004}
+
+  % Major professor (used in abstract).
+  % Use, for example:
+  %     \majorprof{David S. Smith}
+  %     \majorprofs{David S. Smith and Thomas R. Jones}
+  %     \majorprofs{David S. Smith, Thomas R. Jones, and William R. Simmons}
+  % depending on the number of major professors you have.
+\majorprof{Daniel S. Elliott}
+
+  % Any command definitions that you may want
+  % to use in documents other than your thesis.
+% \input{mydefs.tex}
+
+% Thesis-specific command definitions go here.
+
+  % To LaTeX only some parts of your thesis put the
+  % names of the parts to include here.  For example,
+  % \includeonly{front} would only process front.tex.
+  % \includeonly{front,intro,vita} would only process
+  % front.tex, intro.tex, and vita.tex.
+  % To print the final copy of your thesis put a '%'
+  % in front of the \includeonly command and run LaTeX
+  % three times to make sure that all cross-references
+  % are correct.  Then run BibTeX once and LaTeX twice
+  % more.
+% \includeonly{front,intro,vita}
+
+\begin{document}
+
+  % Front matter (title page, dedication, etc.).
+\include{front}
+
+  % Introduction (first chapter).
+%\include{intro}
+
+  % Put other chapter comments here.
+% Put other chapter \include's here.
+
+%Background
+\include{chintro}   %Introduction
+
+\include{chtheory}  %Theory
+
+\include{chexp}     %Experiment and Results
+
+
+  % Summary and/or conclusions are optional but often used.
+  % The summary and/or conclusions often are the last
+  % major division(s) of the text.
+  % Reference: PU 19.
+% \include{summary}
+
+  % Recommendations are optional.
+  % You may include recommendations as a major division if the
+  % subject matter and research so prescribe.
+  % Reference: PU 19.
+% \include{recommend}
+
+  % Show some examples of how to use the puthesis document class.
+%\include{examples}
+
+  % Test the puthesis document class.
+%\include{test}
+
+  % Bibliography is required if you consulted any outside
+  % references.
+  % Reference: PU 19.
+%\include{bib}
+\bibliography{bib}
+
+  % Appendices are optional.
+  % Appendices are not necessarily a part of every thesis.  An appendix is
+  % used for supplementary illustrative material, original data, computer
+  % print-outs,a dn other material that is not necessarily appropriate for
+  % including in the text of the thesis.
+  % Reference: PU 20.
+%\include{appendix}
+
+  % Notes and footnotes are optional.
+  % Reference: PU 20.
+  % I have not implemented this yet.  Mark Senn 2002.06.03
+% \include{notes}
+
+  % Vita is required only in a doctoral dissertation.
+  % Reference: PU 20.
+%\include{vita}
+
+\end{document}
+
+% LaTeX won't read after the \end{document} command.
+% You can put notes to yourself or LaTeX input not
+% ready for use here if you'd like.

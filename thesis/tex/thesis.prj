@@ -1,0 +1,84 @@
+170 Patch Control
+
+0
+0
+0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\thesis.tex
+21
+6
+2
+
+
+
+
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\thesis.tex
+TeX:UNIX
+135376891 0 29 67 34 60 132 174 1035 720 0 494 392 -1 -1 0 0 -1 -1 -1 -1 1 0 60 34   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\chtheory.tex
+TeX
+1060859 0 304 60 453 46 132 174 1035 720 0 382 239 -1 -1 0 0 -1 -1 -1 -1 1 0 46 453   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\chexp.tex
+TeX
+269496315 0 144 29 186 1 154 203 1057 749 0 22 776 -1 -1 0 0 -1 -1 -1 -1 1 0 1 186   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\chintro.tex
+TeX
+1060859 0 269 60 236 59 132 174 880 720 0 486 171 -1 -1 0 0 -1 -1 -1 -1 1 0 59 236   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\front.tex
+TeX:UNIX
+1159163 0 35 17 167 63 154 203 1057 749 0 518 562 -1 -1 0 0 -1 -1 -1 -1 1 0 63 167   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\bib.bib
+BibTeX:UNIX
+1147826 0 342 34 351 35 132 174 880 720 0 294 562 -1 -1 0 0 -1 -1 -1 -1 1 0 35 351   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\the709\chtheory2.tex
+TeX
+269496315 1 79 1 185 48 132 174 1035 720 0 398 531 -1 -1 0 0 -1 -1 -1 -1 1 0 48 185   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\the622\chresults.tex
+TeX
+269496315 0 0 1 0 1 132 174 1035 720 0 22 1 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\chapd.tex
+TeX
+269496315 0 290 6 295 1 176 232 924 778 0 22 5016 -1 -1 0 0 -1 -1 -1 -1 1 0 1 295   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\chphase.tex
+TeX
+269496315 0 227 1 280 59 154 203 902 749 0 486 232 -1 -1 0 0 -1 -1 -1 -1 1 0 59 280   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\symbols.tex
+TeX
+269496315 0 0 1 1 19 198 261 946 807 0 166 18 -1 -1 0 0 -1 -1 -1 -1 1 0 19 1   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\thesis.toc
+DATA
+273679026 0 13 496 13 1 44 58 946 254 0 22 222 -1 -1 0 0 -1 -1 -1 -1 1 0 1 13   0
+C:\Documents and Settings\crupley\My Documents\texfiles\phaseshift.tex
+TeX
+269496315 1 16 1 69 1 154 203 902 749 0 22 698 -1 -1 0 0 -1 -1 -1 -1 1 0 1 69   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\chresults.tex
+TeX
+269496315 0 5 11 5 36 154 203 902 749 0 302 86 -1 -1 0 0 -1 -1 -1 -1 1 0 36 5   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\chsystem.tex
+TeX
+269496315 0 164 30 164 30 88 116 991 662 0 254 538 -1 -1 0 0 -1 -1 -1 -1 1 0 30 164   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\puthesis.cls
+DATA:UNIX
+273777330 0 150 235 150 1 44 58 946 254 0 22 103 -1 -1 0 0 -1 -1 -1 -1 1 0 1 150   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\bib.tex
+TeX:UNIX
+269594619 0 3 58 17 1 110 145 858 691 0 22 290 -1 -1 0 0 -1 -1 -1 -1 1 0 1 17   0
+C:\Documents and Settings\crupley\My Documents\texfiles\figure.tex
+TeX
+269496315 0 0 1 11 17 176 232 924 778 0 150 188 -1 -1 0 0 -1 -1 -1 -1 1 0 17 11   0
+C:\Program Files\WinEdt Team\WinEdt\Samples\Thesis\Thesis.tex
+TeX
+403714043 0 0 1 0 1 66 87 989 633 0 22 1 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0   0
+C:\Documents and Settings\crupley\My Documents\texfiles\puthesis\thesis.tex
+TeX:UNIX
+269594619 0 0 1 0 1 132 174 880 720 0 22 1 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0   0
+C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\examples.tex
+TeX:UNIX
+269594619 0 186 14 183 30 44 58 947 604 0 254 341 -1 -1 0 0 -1 -1 -1 -1 1 0 30 183   0
+
+*C:\Documents and Settings\crupley\My Documents\texfiles\mythesis\thesis.tex
+>
+*front
+*chintro
+*chtheory
+*chexp
+<

@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99c (Web2C 7.4.5)
+The top-level auxiliary file: thesis.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: front.aux
+A level-1 auxiliary file: chintro.aux
+A level-1 auxiliary file: chtheory.aux
+A level-1 auxiliary file: chexp.aux
+Database file #1: bib.bib
+Warning--empty title in Bebb
+Name 1 in "D. A. Kleinman, A. Ashkin, and G. D. Boyd" has a comma at the end for entry Kleinman
+while executing---line 944 of file unsrt.bst
+You've used 17 entries,
+            1791 wiz_defined-function locations,
+            560 strings with 5998 characters,
+and the built_in function-call counts, 3706 in all, are:
+= -- 318
+> -- 165
+< -- 0
++ -- 62
+- -- 45
+* -- 252
+:= -- 618
+add.period$ -- 50
+call.type$ -- 17
+change.case$ -- 12
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 154
+empty$ -- 370
+format.name$ -- 45
+if$ -- 820
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 19
+newline$ -- 87
+num.names$ -- 17
+pop$ -- 37
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 52
+stack$ -- 0
+substring$ -- 279
+swap$ -- 17
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 30
+width$ -- 19
+write$ -- 184
+(There was 1 error message)
